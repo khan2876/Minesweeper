@@ -8,7 +8,7 @@ If you pick a space with a mine, you lose.
 If you pick a space that doesn't have a mine, it will show you how many mines are adjacent to that space.  
 
 # Task
-Your job is to implement numMinesAdjacent and isMine
+Your job is to implement numMinesAdjacent and isMine  
 I've already written code to setup the board with random mines, print the board, and show what numMinesAdjacent returns for each space.  Try running the base code a few times before you start writing.  Think about what numMinesAdjacent should return for each space.  Think about where bounds errors might arise.  
 
 # Grading
